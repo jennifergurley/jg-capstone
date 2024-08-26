@@ -1,13 +1,11 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
+# Capstone Project 
 ```
 
-Description of the app ...
+This application will predict whether an RN will remain at a hospital longer than average. 
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jg-capstone.streamlit.app/)
 
 ## GitHub Codespaces
 
